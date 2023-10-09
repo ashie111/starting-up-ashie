@@ -22,7 +22,7 @@
     <!-- Header Section (Introduction) -->
     <header id="about">
         <h1>ASHIE</h1>
-        <p>Welcome to my portfolio website</p>
+        <p>Welcome to my portfolio website;ashie</p>
     </header>
 
     <!-- Skills Section -->
@@ -32,26 +32,26 @@
             <li>Web Development</li>
             <li>HTML/CSS</li>
             <li>JavaScript</li>
-            <li>...</li>
+            <li>R</li>
         </ul>
     </section>
 
     <!-- Projects Section -->
     <section id="projects">
         <h2>Projects</h2>
-        <!-- Create project cards here -->
+        <!-- Getting started -->
     </section>
 
     <!-- Education Section -->
     <section id="education">
         <h2>Education</h2>
-        <!-- Add your education details here -->
+        <!-- High school grad and freshman -->
     </section>
 
     <!-- Contact Section -->
     <section id="contact">
         <h2>Contact</h2>
-        <!-- Add your contact information and a contact form if desired -->
+        <!-- contact me at astina.pandey@gmail.com -->
     </section>
 
 </body>
